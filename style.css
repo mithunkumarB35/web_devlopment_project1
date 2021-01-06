@@ -1,6 +1,7 @@
 
 
 
+
 body{
     margin: 3%;
     font-family: 'Anton', sans-serif;
@@ -63,7 +64,7 @@ section{
   
 
 .three-project{
-    border: solid red;
+    
       height: 60%;
       height: 500px;
   }
@@ -94,7 +95,7 @@ section{
   }
   .banner{
       background-image: url(backgroung.png);
-      border: solid red;
+      
       border-radius: 50px;
       float: left;
       height: 200px;
@@ -110,7 +111,7 @@ section{
   section{
       height: 500px;
       
-      border: solid red;
+      
   }
   .none{
     float: left;
@@ -160,7 +161,7 @@ section{
 }
 .anime{
     float: left;
-      border: solid red;
+      
       border-radius: 100px;
       
       height: 500px;
